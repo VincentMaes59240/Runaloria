@@ -29,7 +29,7 @@ Souris :
 
 💻 INSTALLATION & LANCEMENT
 ----------------------------
-1. Téléchargez le fichier ZIP depuis itch.io.
+1. A la racine du projet, cliquer sur le bouton vert "<> Code" puis "Download ZIP".
 2. Décompressez l’archive dans un dossier de votre choix.
 3. Lancez le fichier :  
    - **Windows** : `Runaloria.exe`
